@@ -8,3 +8,5 @@ The game uses 'w' , 'a' , 's' and 'd' keys for navigation.
 And the 'l' key is used for shooting projectiles.
 
 The game has been developed on Unity and it's meant for PC.
+
+Source codes are available as well as the exported game which is inside the Build.zip file.
